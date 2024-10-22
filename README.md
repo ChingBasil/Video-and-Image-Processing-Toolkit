@@ -4,7 +4,6 @@
 
 **Warning!**
 - Task A might takes up to minutes to process one video. Therefore, I've only included a single video in the videos array in the main function at line 125.
-- I've used equalization method to increase the brightness. But the outcome still not that optimum. I've tried contrast strechthing but it takes forever to complete. Looking for other solution atm.
 
 ## Task B
 - Regarding the [taskb.py](/taskb.py) file, please download the images from ***e-Learn*** and create the folders as following directories tree before running the program:
